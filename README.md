@@ -60,7 +60,7 @@ Pengujian trigger persediaan mencakup pembelian, penjualan, penolakan penjualan 
 
 ### 7. Repository
 
-https://github.com/aisyafakhramuthmainna/UTS-Pemrograman-Akuntansi
+https://aisyafakhramuthmainna.github.io/UTS-Pemrograman-Akuntansi/
 
 ---
 
